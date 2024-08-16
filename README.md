@@ -1,6 +1,6 @@
 ### Hi, I'm Santiago Ivan Lizarazo Mikly 👋
 
-- 🔭 I’m currently laerning about LLMs and AI/ML/Deep-Learning topics.
+- 🔭 I’m currently learning about LLMs and AI/ML/Deep-Learning topics.
 - 🌱 I’m currently Perfecting my C Skills and working with AI.
 - 👯 I’m looking to collaborate on MANY proyects :)
 - 🤔 I’m looking for help with Networking
